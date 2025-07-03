@@ -1,0 +1,21 @@
+[project]
+name = "sandbox-vector-database"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Joshua Powell",email = "joshuapowell@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb (>=1.0.15,<2.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "sandbox_vector_database", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
