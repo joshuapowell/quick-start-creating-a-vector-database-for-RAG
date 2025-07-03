@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Powell, Joshua I. (2025, July 3). Exploring vector database usage as it applies to LLM and RAG. United States."
+authors:
+- family-names: "Powell"
+  given-names: "Joshua"
+  orcid: "https://orcid.org/0000-0002-0894-2399"
+title: "Exploring vector database usage as it applies to LLM and RAG"
+version: 1.0.0
+doi: "00.0000/00000000.0000.0000000"
+date-released: 2025-07-03
+url: "https://github.com/joshuapowell/quick-start-creating-a-vector-database-for-RAG"
