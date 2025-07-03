@@ -15,8 +15,8 @@ To help me focus on getting to a RAG and not be swallowed by the vast amount of 
 
 Launch one of the notebooks in the `notebooks` directory in your preferred Jupyter Notebook environment.
 
-1. Explore how to use a vector database: `exploring-chromadb.ipynb`
-2. Explore how to ETL PDF data into a vector database: `exploring-data-extraction-from-pdf.ipynb`
+1. Explore how to use a vector database: [`exploring-chromadb.ipynb`](./notebooks/exploring-chromadb.ipynb)
+2. Explore how to ETL PDF data into a vector database: [`exploring-data-extraction-from-pdf.ipynb`](./notebooks/exploring-data-extraction-from-pdf.ipynb)
 
 ## Development
 
