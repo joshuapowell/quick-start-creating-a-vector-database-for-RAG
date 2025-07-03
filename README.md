@@ -11,6 +11,10 @@ To help me focus on getting to a RAG and not be swallowed by the vast amount of 
 3. IPYKernel 6.29.5 or later
 4. Poetry
 
+## Using
+
+Launch the `exploring-chromadb.ipynb` notebook in your preferred Jupyter Notebook environment.
+
 ## Development
 
 ### Virtual Environment via `pyenv`
